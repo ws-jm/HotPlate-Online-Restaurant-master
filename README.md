@@ -1,4 +1,4 @@
-# HotPlate-Online-Restaurant
+# HotPlate-Online-Restaurant-C#
 
 ![Untitled_Artwork (3)](https://user-images.githubusercontent.com/109395254/188254265-401c1f77-cfad-4b2d-aede-adc77861c48c.png)
 
